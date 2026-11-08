@@ -1,0 +1,9222 @@
+[
+  {
+    "id": 76,
+    "label": "Point (0.0m, 4.2m) - Step 259",
+    "timestamp": 1784881311716,
+    "coord_x": 0.0,
+    "coord_y": 0.141,
+    "floor_plan": "Default Grid (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "label": "Point (0.0m, 3.0m) - Step 257",
+    "timestamp": 1784881307132,
+    "coord_x": 0.0,
+    "coord_y": 0.099,
+    "floor_plan": "Default Grid (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "label": "Point (0.0m, 1.8m) - Step 255",
+    "timestamp": 1784881305168,
+    "coord_x": 0.0,
+    "coord_y": 0.059,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "label": "Point (0.0m, 0.8m) - Step 250",
+    "timestamp": 1784881301726,
+    "coord_x": 0.0,
+    "coord_y": 0.028,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "label": "Point (0.0m, 1.7m) - Step 245",
+    "timestamp": 1784881298219,
+    "coord_x": 0.0,
+    "coord_y": 0.056,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "label": "Point (0.0m, 2.9m) - Step 240",
+    "timestamp": 1784881294810,
+    "coord_x": 0.0,
+    "coord_y": 0.098,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "label": "Point (0.0m, 4.1m) - Step 235",
+    "timestamp": 1784881291482,
+    "coord_x": 0.0,
+    "coord_y": 0.135,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "label": "Point (0.0m, 5.0m) - Step 230",
+    "timestamp": 1784881288118,
+    "coord_x": 0.0,
+    "coord_y": 0.165,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "label": "Point (0.0m, 5.8m) - Step 225",
+    "timestamp": 1784881284838,
+    "coord_x": 0.0,
+    "coord_y": 0.195,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -69
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -69
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -69
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -71
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "82:8a:20:d5:12:0a",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d1",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:d9",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:d0",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7c:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7f:42",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7f:49",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7f:45",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:d5",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:2b:25",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -88
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:25",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "label": "Point (0.0m, 7.5m) - Step 215",
+    "timestamp": 1784881278097,
+    "coord_x": 0.0,
+    "coord_y": 0.249,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -72
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:60",
+        "rssi": -73
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:62",
+        "rssi": -73
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:ea:64",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:ea:65",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -73
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -73
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d4",
+        "rssi": -73
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:d6",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -73
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -74
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -74
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -74
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:ea:75",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:ea:79",
+        "rssi": -74
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "5e:e9:31:22:e3:01",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:ea:69",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:70",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "04:bd:88:3c:cb:65",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -76
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:72",
+        "rssi": -76
+      },
+      {
+        "ssid": "CP-F-ZA-Joburg-2_4GHz",
+        "bssid": "28:ee:52:62:88:1e",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:f0:20",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:22",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "04:bd:88:3c:cb:64",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:62:36",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:62:34",
+        "rssi": -81
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Test",
+        "bssid": "04:bd:88:3c:cb:61",
+        "rssi": -84
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:11",
+        "rssi": -86
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:ea:15",
+        "rssi": -86
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:ea:10",
+        "rssi": -86
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:ea:19",
+        "rssi": -87
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:66",
+        "rssi": -87
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:12",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -89
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "label": "Point (0.0m, 8.3m) - Step 205",
+    "timestamp": 1784881271281,
+    "coord_x": 0.0,
+    "coord_y": 0.278,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "4a:e6:63:11:87:d7",
+        "rssi": -65
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:ea:75",
+        "rssi": -66
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:ea:79",
+        "rssi": -66
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -66
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -66
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:71",
+        "rssi": -67
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:72",
+        "rssi": -67
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -69
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -76
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "5e:e9:31:22:e3:01",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "04:bd:88:3c:cb:67",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:8b:a0",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:8b:a2",
+        "rssi": -81
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:8b:a5",
+        "rssi": -81
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:8b:a4",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:8b:a6",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:8b:a9",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -83
+      },
+      {
+        "ssid": "Staff_Test",
+        "bssid": "04:bd:88:3c:cb:61",
+        "rssi": -83
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "04:bd:88:3c:cb:64",
+        "rssi": -83
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -84
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "4a:e6:63:a4:ea:dc",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:c5",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "04:bd:88:3c:cb:66",
+        "rssi": -85
+      },
+      {
+        "ssid": "",
+        "bssid": "04:bd:88:3c:cb:65",
+        "rssi": -85
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7c:c4",
+        "rssi": -85
+      },
+      {
+        "ssid": "Registration@UJ",
+        "bssid": "04:bd:88:3c:cb:63",
+        "rssi": -86
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7c:c0",
+        "rssi": -86
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e4:64",
+        "rssi": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e4:65",
+        "rssi": -87
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e4:62",
+        "rssi": -88
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e4:69",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -88
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:ea:19",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "98:a9:42:d5:c0:ae",
+        "rssi": -88
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:11",
+        "rssi": -90
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e4:66",
+        "rssi": -90
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "label": "Point (0.0m, 10.4m) - Step 195",
+    "timestamp": 1784881264487,
+    "coord_x": 0.0,
+    "coord_y": 0.346,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:ea:75",
+        "rssi": -61
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:ea:76",
+        "rssi": -61
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:ea:79",
+        "rssi": -61
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -62
+      },
+      {
+        "ssid": "",
+        "bssid": "4a:e6:63:11:87:d7",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -64
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:c1",
+        "rssi": -75
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:c9",
+        "rssi": -75
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:c0",
+        "rssi": -76
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:c2",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e8:c4",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:c5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Test",
+        "bssid": "04:bd:88:3c:cb:61",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "04:bd:88:3c:cb:64",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "04:bd:88:3c:cb:67",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "04:bd:88:3c:cb:65",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "04:bd:88:3c:cb:66",
+        "rssi": -81
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "04:bd:88:3c:cb:62",
+        "rssi": -81
+      },
+      {
+        "ssid": "Registration@UJ",
+        "bssid": "04:bd:88:3c:cb:63",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:c9",
+        "rssi": -84
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:a0:e2:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "CP-F-ZA-Joburg-2_4GHz",
+        "bssid": "28:ee:52:62:88:1e",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:c5",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -85
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7c:c6",
+        "rssi": -86
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:c1:5a:66",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -87
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -87
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:72",
+        "rssi": -87
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:11",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:62:36",
+        "rssi": -88
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "9c:1c:12:c1:5a:63",
+        "rssi": -89
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:70",
+        "rssi": -89
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:79",
+        "rssi": -89
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:c1:5a:65",
+        "rssi": -90
+      },
+      {
+        "ssid": "NATHANAEL 1664",
+        "bssid": "ce:d9:ac:34:2c:90",
+        "rssi": -91
+      },
+      {
+        "ssid": "Staff_Test",
+        "bssid": "9c:1c:12:c1:5a:64",
+        "rssi": -92
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "label": "Point (0.0m, 10.6m) - Step 194",
+    "timestamp": 1784881264328,
+    "coord_x": 0.0,
+    "coord_y": 0.353,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:ea:75",
+        "rssi": -61
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:ea:76",
+        "rssi": -61
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:ea:79",
+        "rssi": -61
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -62
+      },
+      {
+        "ssid": "",
+        "bssid": "4a:e6:63:11:87:d7",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -64
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:c1",
+        "rssi": -75
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:c9",
+        "rssi": -75
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:c0",
+        "rssi": -76
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:c2",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e8:c4",
+        "rssi": -76
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:c5",
+        "rssi": -76
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Test",
+        "bssid": "04:bd:88:3c:cb:61",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "04:bd:88:3c:cb:64",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "04:bd:88:3c:cb:67",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "04:bd:88:3c:cb:65",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d1",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e8:d9",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "04:bd:88:3c:cb:66",
+        "rssi": -81
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "04:bd:88:3c:cb:62",
+        "rssi": -81
+      },
+      {
+        "ssid": "Registration@UJ",
+        "bssid": "04:bd:88:3c:cb:63",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e8:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e8:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d1",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e8:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7c:c9",
+        "rssi": -84
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:d5",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:d9",
+        "rssi": -84
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:a0:e2:d2",
+        "rssi": -84
+      },
+      {
+        "ssid": "CP-F-ZA-Joburg-2_4GHz",
+        "bssid": "28:ee:52:62:88:1e",
+        "rssi": -85
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7c:c5",
+        "rssi": -85
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:d0",
+        "rssi": -85
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:62:32",
+        "rssi": -85
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7c:c6",
+        "rssi": -86
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:c1:5a:66",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:62:39",
+        "rssi": -87
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:62:30",
+        "rssi": -87
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:62:31",
+        "rssi": -87
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:62:35",
+        "rssi": -87
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:72",
+        "rssi": -87
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:ea:11",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:62:36",
+        "rssi": -88
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "9c:1c:12:c1:5a:63",
+        "rssi": -89
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:70",
+        "rssi": -89
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:79",
+        "rssi": -89
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:c1:5a:65",
+        "rssi": -90
+      },
+      {
+        "ssid": "NATHANAEL 1664",
+        "bssid": "ce:d9:ac:34:2c:90",
+        "rssi": -91
+      },
+      {
+        "ssid": "Staff_Test",
+        "bssid": "9c:1c:12:c1:5a:64",
+        "rssi": -92
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "label": "Point (0.0m, 6.4m) - Step 185",
+    "timestamp": 1784881257688,
+    "coord_x": 0.0,
+    "coord_y": 0.213,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "label": "Point (0.0m, 3.4m) - Step 180",
+    "timestamp": 1784881254380,
+    "coord_x": 0.0,
+    "coord_y": 0.112,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "label": "Point (0.0m, 1.0m) - Step 175",
+    "timestamp": 1784881250949,
+    "coord_x": 0.0,
+    "coord_y": 0.033,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "label": "Point (0.0m, 0.1m) - Step 170",
+    "timestamp": 1784881247556,
+    "coord_x": 0.0,
+    "coord_y": 0.003,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "label": "Point (0.0m, 0.1m) - Step 165",
+    "timestamp": 1784881244122,
+    "coord_x": 0.0,
+    "coord_y": 0.005,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "label": "Point (0.0m, 0.0m) - Step 160",
+    "timestamp": 1784881240890,
+    "coord_x": 0.0,
+    "coord_y": 0.0,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "label": "Point (0.0m, 0.0m) - Step 155",
+    "timestamp": 1784881237514,
+    "coord_x": 0.0,
+    "coord_y": 0.0,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "label": "Point (0.1m, 0.0m) - Step 150",
+    "timestamp": 1784881234197,
+    "coord_x": 0.001,
+    "coord_y": 0.0,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "label": "Point (0.0m, 0.0m) - Step 145",
+    "timestamp": 1784881230674,
+    "coord_x": 0.0,
+    "coord_y": 0.0,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "label": "Point (0.0m, 0.0m) - Step 140",
+    "timestamp": 1784881227430,
+    "coord_x": 0.0,
+    "coord_y": 0.0,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "label": "Point (0.0m, 0.0m) - Step 135",
+    "timestamp": 1784881223972,
+    "coord_x": 0.0,
+    "coord_y": 0.0,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "label": "Point (0.0m, 0.0m) - Step 130",
+    "timestamp": 1784881220603,
+    "coord_x": 0.0,
+    "coord_y": 0.0,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "label": "Point (0.0m, 1.5m) - Step 125",
+    "timestamp": 1784881217279,
+    "coord_x": 0.0,
+    "coord_y": 0.05,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "label": "Point (0.0m, 2.0m) - Step 120",
+    "timestamp": 1784881213912,
+    "coord_x": 0.0,
+    "coord_y": 0.066,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "label": "Point (0.0m, 4.0m) - Step 115",
+    "timestamp": 1784881210615,
+    "coord_x": 0.0,
+    "coord_y": 0.133,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "label": "Point (0.0m, 6.5m) - Step 110",
+    "timestamp": 1784881207257,
+    "coord_x": 0.0,
+    "coord_y": 0.216,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "label": "Point (0.0m, 7.8m) - Step 105",
+    "timestamp": 1784881204022,
+    "coord_x": 0.0,
+    "coord_y": 0.26,
+    "floor_plan": "PDR Walk Mode (50.0mx30.0m)",
+    "measurements": [
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -44
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:11",
+        "rssi": -62
+      },
+      {
+        "ssid": "DIRECT-2f-BjRI-dXNlcjQwMzA0NzEz",
+        "bssid": "ce:f4:7a:fb:05:ab",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:10",
+        "rssi": -63
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:12",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:16",
+        "rssi": -63
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:19",
+        "rssi": -63
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:15",
+        "rssi": -63
+      },
+      {
+        "ssid": "",
+        "bssid": "84:8a:20:d9:1a:14",
+        "rssi": -70
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -71
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:88:62",
+        "rssi": -71
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:12:e5",
+        "rssi": -71
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:89:50",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:51",
+        "rssi": -73
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "24:a5:2c:8c:89:55",
+        "rssi": -73
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:89:59",
+        "rssi": -73
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:63:41",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "48:e6:63:0d:7f:cd",
+        "rssi": -74
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "9c:1c:12:ae:12:e7",
+        "rssi": -74
+      },
+      {
+        "ssid": "",
+        "bssid": "9a:a9:42:d9:c8:b8",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:54",
+        "rssi": -75
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:89:56",
+        "rssi": -75
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "24:a5:2c:8c:89:52",
+        "rssi": -75
+      },
+      {
+        "ssid": "WiPG-1000",
+        "bssid": "00:12:5f:0b:5c:ea",
+        "rssi": -76
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:63:59",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:92:63:44",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "24:a5:2c:8c:88:60",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "24:a5:2c:8c:88:69",
+        "rssi": -77
+      },
+      {
+        "ssid": "",
+        "bssid": "58:16:51:8c:93:e0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e9:b0",
+        "rssi": -77
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b2",
+        "rssi": -77
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:63:50",
+        "rssi": -78
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:63:52",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:63:55",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "00:30:4f:b5:d2:1e",
+        "rssi": -78
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e9:b1",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b4",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e9:b6",
+        "rssi": -78
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e9:b9",
+        "rssi": -78
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e9:b5",
+        "rssi": -78
+      },
+      {
+        "ssid": "",
+        "bssid": "56:16:51:88:8b:d6",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:10",
+        "rssi": -79
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:12",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:14",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "ac:b3:b5:63:7e:16",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "ac:b3:b5:63:7e:19",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:f0:95",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:f0:96",
+        "rssi": -79
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "ac:b3:b5:63:7e:00",
+        "rssi": -79
+      },
+      {
+        "ssid": "",
+        "bssid": "9c:1c:12:ae:03:24",
+        "rssi": -79
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "ac:b3:b5:63:7e:15",
+        "rssi": -79
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:91",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:f0:92",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:54:52",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "7e:8a:20:d5:12:0a",
+        "rssi": -80
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:66:51",
+        "rssi": -80
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "ac:b3:b5:63:7e:02",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "24:a5:2c:8c:88:64",
+        "rssi": -80
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:f0:99",
+        "rssi": -80
+      },
+      {
+        "ssid": "",
+        "bssid": "80:8a:20:d9:1a:14",
+        "rssi": -80
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:92:66:55",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:92:66:59",
+        "rssi": -81
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:92:66:50",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:92:66:52",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:4a:e1:d0",
+        "rssi": -82
+      },
+      {
+        "ssid": "Guest_WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d2",
+        "rssi": -82
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d4",
+        "rssi": -82
+      },
+      {
+        "ssid": "Staff_Access_2",
+        "bssid": "70:fd:45:4a:e1:d9",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:4a:e1:d1",
+        "rssi": -82
+      },
+      {
+        "ssid": "eduroam",
+        "bssid": "70:fd:45:4a:e1:d5",
+        "rssi": -82
+      },
+      {
+        "ssid": "WiFi@UJ",
+        "bssid": "70:fd:45:92:54:51",
+        "rssi": -83
+      },
+      {
+        "ssid": "",
+        "bssid": "70:fd:45:4a:e1:d6",
+        "rssi": -83
+      },
+      {
+        "ssid": "DIRECT-97-HP Laser 137fnw",
+        "bssid": "7e:4d:8f:6f:15:97",
+        "rssi": -84
+      },
+      {
+        "ssid": "Staff_Access",
+        "bssid": "70:fd:45:0a:ba:b0",
+        "rssi": -88
+      },
+      {
+        "ssid": "",
+        "bssid": "d8:c7:c8:13:a4:57",
+        "rssi": -88
+      }
+    ]
+  }
+]
