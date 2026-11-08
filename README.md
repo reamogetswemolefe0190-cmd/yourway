@@ -1,4 +1,4 @@
-# YourWay — Wi-Fi Indoor Positioning Without Extra Hardware
+﻿# YourWay â€” Wi-Fi Indoor Positioning Without Extra Hardware
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-SQLite%20%7C%20Sensors-3DDC84?logo=android&logoColor=white)
@@ -24,24 +24,24 @@ I built and tested it on a university campus (University of Johannesburg).
 - **Map-free Landmark Mode survey (`MainScreen.kt`):** Instead of tapping your position on a blueprint, you walk from a named start landmark to a named finish landmark. Background coroutines scan Wi-Fi every 3.5 s, and each scan's position is set by linear time interpolation (progress from `0.0` to `1.0`).
 - **Combining repeated walks (`reconcile_data.py`):** Lines up repeated walks of the same route into 10% progress bins and averages the readings, which reduces noise from people blocking the signal and from reflections.
 - **Random Forest localization (`train_model.py`):** Builds a feature matrix from every access point seen (165 unique BSSIDs in the pilot data; an AP that isn't detected is set to -100 dBm) and predicts position. On a held-out split of the 30-point pilot dataset, the mean error was **about 2.2 m**.
-- **Finding walls and floors from signal drops (`visualize_barriers.py`):** Measures how fast the signal drops per metre walked. In the real campus data, one access point fell by roughly 25 dBm over about 1.8 m during a floor change (2nd floor → library on the 1st floor), consistent with a concrete floor slab.
+- **Finding walls and floors from signal drops (`visualize_barriers.py`):** Measures how fast the signal drops per metre walked. In the real campus data, one access point fell by roughly 25 dBm over about 1.8 m during a floor change (2nd floor â†’ library on the 1st floor), consistent with a concrete floor slab.
 - **Pedestrian dead reckoning (map mode):** Counts steps with Android's step detector, checks phone tilt with the accelerometer, and tracks heading from low-pass-filtered compass readings.
 
 ---
 
 ## Results & Visuals
 
-### 1. Signal drop across a floor change — *real survey data*
+### 1. Signal drop across a floor change â€” *real survey data*
 Created by `visualize_barriers.py` from `wifi_dataset.json`, which holds real Wi-Fi scans I collected on campus. The plot follows two real access points while I walked from the 2nd floor down to the 1st-floor library:
 
 ![Wi-Fi Signal Attenuation](wifi_signal_attenuation.png)
 
-### 2. Effect of combining walks on prediction — *simulated illustration*
+### 2. Effect of combining walks on prediction â€” *simulated illustration*
 Created by `visualize_ml_mockup.py` from **synthetic** data. It shows the concept behind the pipeline: averaging several noisy walks gives smoother signal curves and steadier position estimates. It is not a measured result.
 
 ![ML Positioning Mockup](ml_positioning_mockup.png)
 
-### 3. Indoor navigation concept — *design mockup*
+### 3. Indoor navigation concept â€” *design mockup*
 Created by `plot_map_guide.py`. The landmarks and route are **illustrative placeholders**. The plot shows the planned next step: placing the predicted route progress on a graph of connected landmarks to give turn-by-turn directions.
 
 ![Map Guide Network](map_guide_network.png)
@@ -69,18 +69,18 @@ Created by `plot_map_guide.py`. The landmarks and route are **illustrative place
 ## Repository Structure
 
 ```text
-├── app/src/main/java/com/example/wififingerprintsurvey/
-│   ├── MainActivity.kt              # Permissions & app entry point
-│   ├── Models.kt                    # Wi-Fi scan & survey record models
-│   ├── WifiSurveyDbHelper.kt        # SQLite storage & JSON export
-│   └── ui/main/MainScreen.kt        # Compose UI: Landmark Mode, Map/PDR Mode, History
-├── reconcile_data.py                # Lines up and averages repeated walks
-├── train_model.py                   # Feature matrix + Random Forest training/evaluation
-├── visualize_barriers.py            # Signal-drop analysis (real data)
-├── visualize_ml_mockup.py           # Concept illustration (synthetic data)
-├── plot_map_guide.py                # Navigation graph mockup
-├── wifi_dataset.json                # Real pilot Wi-Fi fingerprint dataset
-└── WifiFingerprintSurvey.apk        # Debug build of the Android app
+â”œâ”€â”€ app/src/main/java/com/example/wififingerprintsurvey/
+â”‚   â”œâ”€â”€ MainActivity.kt              # Permissions & app entry point
+â”‚   â”œâ”€â”€ Models.kt                    # Wi-Fi scan & survey record models
+â”‚   â”œâ”€â”€ WifiSurveyDbHelper.kt        # SQLite storage & JSON export
+â”‚   â””â”€â”€ ui/main/MainScreen.kt        # Compose UI: Landmark Mode, Map/PDR Mode, History
+â”œâ”€â”€ reconcile_data.py                # Lines up and averages repeated walks
+â”œâ”€â”€ train_model.py                   # Feature matrix + Random Forest training/evaluation
+â”œâ”€â”€ visualize_barriers.py            # Signal-drop analysis (real data)
+â”œâ”€â”€ visualize_ml_mockup.py           # Concept illustration (synthetic data)
+â”œâ”€â”€ plot_map_guide.py                # Navigation graph mockup
+â”œâ”€â”€ wifi_dataset.json                # Real pilot Wi-Fi fingerprint dataset
+â””â”€â”€ WifiFingerprintSurvey.apk        # Debug build of the Android app
 ```
 
 ---
