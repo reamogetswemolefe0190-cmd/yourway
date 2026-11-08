@@ -1,4 +1,4 @@
-# YourWay — Zero-Infrastructure Wi-Fi Indoor Positioning & Wayfinding
+# YourWay: Zero-Infrastructure Wi-Fi Indoor Positioning & Wayfinding
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-SQLite%20%7C%20Sensors-3DDC84?logo=android&logoColor=white)
